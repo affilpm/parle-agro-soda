@@ -1,0 +1,125 @@
+.header{
+         background:rgb(12, 12, 41);
+         width: 100%;
+         height: 70px;
+         display: flex;
+        
+         
+         
+}
+body{
+    margin:0;
+}
+.navbar{
+}
+.logo-img{
+    width: 119px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+
+ul{
+    display: flex;
+    padding-left: 540;
+    
+    
+}
+
+li {
+    color:white;
+    padding: 16px;
+    list-style: none;
+    font-family: monospace;
+    font-size: 17px;
+    padding-top: 1%;
+    margin-top: 0;
+}
+.arrow{
+    width: 12px;
+    height: 19px;
+    margin-top: 10px;
+    margin-right: 9px;
+    margin-left:-3px;
+}
+
+.img{
+    width: 100%;
+
+}   
+.page2img{
+    width: 50%;
+    background-color: orange;
+    height: 1000px;
+}
+.img2{
+    
+        padding-left: 327px;
+        height: 57%;
+        padding-top: 27%;
+        z-index: -1;
+}
+.text{
+    z-index: 1;
+    text-align: center;
+    margin-top: 10px;
+    margin-top: -428px;
+    font-size: 72px; 
+}
+.page2{
+    display:flex;
+}
+.text0{
+    margin-left: 134px;
+    margin-top: 39%;
+    font-size:44px ;
+}
+.subtext{
+    margin-left: 17%;
+    font-size: 27px;
+    color: #000000b2;
+}
+.img3{
+    width: 100%;
+}
+.texts{
+    height: 230px;
+    margin-top: 30px;
+    font-size: 15px;
+    margin-left: 60px;
+    color: #070606ab;
+    display: flex;
+} 
+
+.text2{
+    margin-left: 285px;
+}  
+.text2sub{
+    margin-left:-455px;
+    margin-top: 46px;
+    color: black;
+    row-gap: 5px;
+    line-height: 1.7;
+    font-size:15px ;
+}
+.text3{
+    margin-left: 234px;
+}
+.dark{
+    font-size: 15px;
+    color: black;
+}
+.logos{
+    height: 40px;
+    margin-top: 163px;
+    margin-left: -291;
+}
+
+
+
+
+
+
+
+
+
